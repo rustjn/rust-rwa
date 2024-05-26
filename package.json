@@ -1,6 +1,6 @@
 {
   "name": "@rustjn/rust-rwa",
-  "version": "1.0.94",
+  "version": "1.0.95",
   "description": "Description for rust-rwa",
   "main": "src/index.js",
   "scripts": {
